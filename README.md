@@ -203,6 +203,8 @@ npm install
 
 确认已开启 `今日统计`，有新请求经过 CLIProxyAPI，并且没有其它工具消费 `usage-queue`。
 
+## L
+Finally，Thanks to everyone on LinuxDo for their support! Welcome to join https://linux.do/ for all kinds of technical exchanges, cutting-edge AI information, and AI experience sharing, all on Linuxdo!
 
 ## License
 
